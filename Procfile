@@ -1,0 +1,1 @@
+web: gunicorn servidor_cundi_version0:app
